@@ -1,0 +1,17 @@
+@import 'removeStyle.scss';
+// color: #fff; 
+// color:#262626; 
+// color: #4faab3; 
+// color: #00d1a0; 
+@font-face {
+  font-family: MyriadPro;
+  src: url("../fonts/MYRIADPRO-REGULAR.OTF") format("opentype");
+  }
+body{
+  font-family: MyriadPro;
+  font-weight: normal;
+  background: #d3caca;
+  padding: 25px;
+}
+
+
